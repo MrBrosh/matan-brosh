@@ -30,5 +30,9 @@ Focused on developing AI-powered automation tools and custom CRM platforms for b
 
 ---
 
-_This README appears automatically on my GitHub profile._
+### 📈 GitHub Stats
+![MrBrosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBrosh&show_icons=true&theme=dark)
 
+---
+
+_This README appears automatically on my GitHub profile._
