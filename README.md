@@ -35,4 +35,13 @@ Focused on developing AI-powered automation tools and custom CRM platforms for b
 
 ---
 
+### 🧮 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBrosh&layout=compact&theme=dark)
+
+---
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrBrosh&theme=dark&hide_border=true)
+
+
 _This README appears automatically on my GitHub profile._
